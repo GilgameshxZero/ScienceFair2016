@@ -1,0 +1,1 @@
+Graph the functions in the SF project, with sliders for variables to see how they vary the graph.
